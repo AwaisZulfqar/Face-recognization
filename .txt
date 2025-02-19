@@ -1,0 +1,20 @@
+CREATE TABLE students_detail (
+    Department VARCHAR(50),
+    Course VARCHAR(50),
+    Year VARCHAR(50),
+    Semester VARCHAR(50),
+    id VARCHAR(50) PRIMARY KEY,
+    Name VARCHAR(100),
+    Division VARCHAR(50),
+    Roll_no VARCHAR(50),
+    Gender VARCHAR(50),
+    DOB VARCHAR(50),
+    Email VARCHAR(100),
+    Phone_no VARCHAR(50),
+    Address VARCHAR(255),
+    Teacher VARCHAR(100),
+    Photo_img VARCHAR(50)
+);
+
+
+create this in sql 
